@@ -6,6 +6,7 @@ Interactive Google Looker Studio dashboard analyzing the correlation between dai
 An interactive and data-driven dashboard analyzing the correlation between teenagers' digital habits, academic performance, and mental health indicators.
 
 📊 **[Access the Interactive Dashboard Here](https://datastudio.google.com/reporting/b423c5d6-40b6-46ea-8648-fbde9616bb88/page/p_gwvus6et3d)**
+💾 **[Download the Full PDF Report Here](Teen_Mental_Health_Dashboard%20(1).pdf)**
 
 ---
 
