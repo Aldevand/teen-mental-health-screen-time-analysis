@@ -14,6 +14,8 @@ This project transforms raw data into an actionable storytelling dashboard using
 
 The dataset covers a balanced sample of **1,200 students** with comprehensive metrics tracking daily social media hours, screen time before sleep, and clinical depression indicators.
 
+💾 [Access the BigQuery SQL Script Here](query.sql)
+
 ---
 
 ## 🗂️ Data Source
