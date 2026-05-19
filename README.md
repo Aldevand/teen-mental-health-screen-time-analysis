@@ -16,6 +16,17 @@ The dataset covers a balanced sample of **1,200 students** with comprehensive me
 
 ---
 
+## 🗂️ Data Source
+The analysis and visualization in this dashboard are based on the public dataset:
+* **Dataset Name:** [Social Media Impact on Teen Mental Health](https://www.kaggle.com/datasets/algozee/teenager-menthal-healy)
+* **Author/Creator:** Muhammad Shahzad (via Kaggle)
+* **License:** Apache 2.0
+* **Data Context:** Survey-based behavior data of 1,200 teenagers capturing digital habits alongside academic scores and psychological self-assessments (scaled metrics).
+
+---
+
+---
+
 ## 🧠 Key Insights & Data Storytelling
 
 ### 📄 Page 1: Executive Summary
@@ -37,9 +48,10 @@ The dataset covers a balanced sample of **1,200 students** with comprehensive me
 ---
 
 ## 🛠️ Tools Used
-* **Visualization:** Google Looker Studio
-* **Data Sources:** Teen Mental Health and Digital Behavior Dataset (1,200 records)
-* **Documentation:** GitHub Markdown
+* **Data Warehousing & SQL Querying:** Google BigQuery (Sandbox) — Used for data ingestion, exploratory data analysis (EDA), and structuring the metrics via SQL before visualization.
+* **Data Visualization:** Google Looker Studio — Used to build the 3-page interactive data storytelling dashboard.
+* **Documentation:** GitHub Markdown.
+
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
